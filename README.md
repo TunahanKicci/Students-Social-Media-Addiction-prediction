@@ -33,7 +33,7 @@ Veri setindeki trendleri, ülkeler arası dağılımı ve platform bazlı bağı
 
 📥 **Dosyayı İncele:**
 Dashboard'u kendi bilgisayarınızda açmak için `.twbx` dosyasını indirebilirsiniz:
-👉 **[Social_Media_Analysis.twbx İndir](Social_Media_Analysis.twbx)**
+👉 **[Social_Media_Analysis.twbx İndir](tableau_dashboard.twbx)**
 
 ---
 
