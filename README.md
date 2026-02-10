@@ -1,5 +1,5 @@
 
-# 📱 Öğrenciler İçin Sosyal Medya Bağımlılık Analizi (AI Powered)
+# 📱 Öğrenciler İçin Sosyal Medya Bağımlılık Analizi
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -83,8 +83,6 @@ Model, veri setindeki dağılıma dayanarak **2 ile 9 arasında** bir skor üret
 
 **Tunahan Kıççı**
 
-* [LinkedIn Profilim](https://www.google.com/search?q=https://www.linkedin.com/in/tunahan-kicci)
-* [GitHub Profilim](https://www.google.com/search?q=https://github.com/TunahanKicci)
 
 ---
 
